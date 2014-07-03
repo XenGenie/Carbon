@@ -19,3 +19,6 @@
 [submodule "xDenied"]
 	path = xDenied
 	url = https://github.com/SuperDomX/xDenied
+[submodule "xVitals"]
+	path = xVitals
+	url = https://github.com/SuperDomX/xVitals
