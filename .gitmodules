@@ -1,0 +1,21 @@
+[submodule "xAccess"]
+	path = xAccess
+	url = https://github.com/SuperDomX/xAccess
+[submodule "xLogin"]
+	path = xLogin
+	url = https://github.com/SuperDomX/xLogin
+[submodule "xBackup"]
+	path = xBackup
+	url = https://github.com/SuperDomX/xBackup
+[submodule "xWwwSetup"]
+	path = xWwwSetup
+	url = https://github.com/SuperDomX/xWwwSetup
+[submodule "xLang"]
+	path = xLang
+	url = https://github.com/SuperDomX/xLang
+[submodule "xFileServer"]
+	path = xFileServer
+	url = https://github.com/SuperDomX/xFileServer
+[submodule "xDenied"]
+	path = xDenied
+	url = https://github.com/SuperDomX/xDenied
